@@ -1,0 +1,6 @@
+joao,30
+lays,23
+renato,34
+camilla,45
+manoel,19
+raquel,12

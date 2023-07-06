@@ -1,0 +1,10 @@
+Estudar; Nao Concluido
+Estudar Python; Concluida
+Estudar Matematica; Nao Concluida
+Estudar Geometria; Nao Concluido
+Estudar Ingles; Concluido
+Estudar Algoritmos; Nao Concluido
+Dan�ar Na Chuva; Nao Concluido
+Comer Pipoca; Nao Concluido
+Jantar Miojo; Nao Concluido
+Ler Um Livro; Nao Concluida
