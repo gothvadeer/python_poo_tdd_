@@ -1,4 +1,4 @@
-# :small_orange_diamond: [65 exercícios em python (POO e TDD) + 44 extras] :small_orange_diamond:
+# :small_orange_diamond:[65 exercícios em python (POO e TDD) 44 extras]:small_orange_diamond:
 
 ### :large_orange_diamond: Introdução ao POO
 ##### :yellow_circle: Classes
