@@ -1,5 +1,4 @@
 # :small_orange_diamond:[65 exercícios em python (POO e TDD) 44 extras]:small_orange_diamond:
-
 ### :black_small_square: Introdução ao POO
 ##### :yellow_circle: Classes
 ##### :yellow_circle: Métodos
@@ -19,4 +18,4 @@
 ####  :green_circle: SetUp e TearDown
 #### :green_circle: Doctests
 
-
+</div>
