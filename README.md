@@ -17,5 +17,3 @@
 #### :green_circle:  Unittest
 ####  :green_circle: SetUp e TearDown
 #### :green_circle: Doctests
-
-</div>
